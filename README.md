@@ -1,4 +1,4 @@
-![image](https://github.com/galaxygame/coachplan/blob/master/applicat.png)
+![image](https://github.com/worldfootballplay/footballcoach/blob/master/app.png)
 
 In Football Coach-Football match, you play the newly-hired head coach at your college of choice. As head coach, it will be your responsibility to manage your team's strategy, simulate through seasons, recruit new players, and above all, win championships.
 
